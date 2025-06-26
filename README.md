@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-Hi, I am Victor Alejandro Maza. I am from Argentina, and I live in the Ciudad Autónoma de Buenos Aires. I am a curious person about technology, and that curiosity drove me here. I am pursuing a degree in Computer Engineering at the Universidad Argentina de la Empresa (UADE). Previously, I completed a Licenciatura en Ciencias Biológicas (roughly equivalent to a BA and MA in Biology) at the Universidad de Buenos Aires (UBA). Additionally, I completed four years of a Doctorate in Biology at the same institution as a research trainee, supported by a PhD scholarship from CONICET.  
+Hi, I'm Victor Alejandro Maza. I'm from Argentina, and I live in the Ciudad Autónoma de Buenos Aires. I'm a person who is curious about technology, and that curiosity has brought me here. I'm pursuing a degree in Computer Engineering at the Universidad Argentina de la Empresa (UADE). Previously, I completed a Licenciatura en Ciencias Biológicas (roughly equivalent to a BA and MA in Biology) at the Universidad de Buenos Aires (UBA). Additionally, I completed four years of a Doctorate in Biology at the same institution as a research trainee, supported by a PhD scholarship from CONICET.  
 
 - 🔭 I’m currently working on developing my programming skills, mainly in Python
 - 🌱 I’m currently learning Python, HTML, CSS, and JavaScript
