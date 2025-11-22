@@ -1,3 +1,15 @@
+## Hola Mundo 👋
+
+Soy Víctor Alejandro Maza. Soy argentino y vivo en la Ciudad Autónoma de Buenos Aires. Siempre fui curioso respecto a la programación lo que me trajo acá. Actualmente, estoy cursando Ingeniería en Informática en la Universidad Argentina de la Empresa (UADE). Anteriormente, completé la Licenciatura en Ciencias Biológicas en la Universidad de Buenos Aires (UBA). Adicionalmente, completé cuatro años del Doctorado en Biología en la misma institución como becario del CONICET.
+
+- 🔭 Estoy desarrollando mis habilidades en programación.
+- 🌱 Estoy aprendiendo Python
+- 📫 Contacto: victormaza90@gmail.com
+  
+**Habilidaes**
+
+Autodidacta | Python | Investigación
+
 ## Hello World 👋
 
 Hi, I'm Victor Alejandro Maza. I'm from Argentina, and I live in the Ciudad Autónoma de Buenos Aires. I'm a person who is curious about technology, and that curiosity has brought me here. I'm pursuing a degree in Computer Engineering at the Universidad Argentina de la Empresa (UADE). Previously, I completed a Licenciatura en Ciencias Biológicas (roughly equivalent to a BA and MA in Biology) at the Universidad de Buenos Aires (UBA). Additionally, I completed four years of a Doctorate in Biology at the same institution as a research trainee, supported by a PhD scholarship from CONICET.  
