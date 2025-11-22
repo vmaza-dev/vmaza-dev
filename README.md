@@ -20,7 +20,7 @@ Hi, I'm Victor Alejandro Maza. I'm from Argentina, and I live in the Ciudad Aut√
 
 **Skills**
 
-Self learning | STEM AI prompting | Research | English 
+Self learning | Python | Research
 
 <!--
 **Tools**
